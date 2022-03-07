@@ -1,4 +1,5 @@
 import React from 'react'
+import HogCard from './HogCard';
 
 function HogList({ hogs }) {
     return (
