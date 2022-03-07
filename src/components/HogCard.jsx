@@ -1,4 +1,6 @@
-import React from 'react'
+import React from 'react';
+import { useState } from 'react';
+import HogDetails from './HogDetails';
 
 function HogCard({hog}) {
 
